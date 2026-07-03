@@ -1,0 +1,3 @@
+streamlit>=1.25.0
+biopython>=1.81
+pandas>=2.0.0
